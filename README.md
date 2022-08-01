@@ -1,2 +1,0 @@
-# scripts
-automation scripts 
